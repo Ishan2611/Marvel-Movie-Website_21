@@ -1,0 +1,25 @@
+.about-page {
+    padding: 50px;
+    background: linear-gradient(135deg, #a1ccd1, #e9b384);
+    color: #333;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-page h1 {
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #7c9d96;
+  }
+  
+  .about-page p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .about-page strong {
+    color: #e94e77;
+  }
+  
